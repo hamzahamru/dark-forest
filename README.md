@@ -9,7 +9,7 @@ Fill email.txt with your list email
 
 Install NodeJs to your laptop/pc
 
-Paste This to your terminal
+Paste this to your terminal
 ```python
 npm i node-fetch@2.6.1
 ```
