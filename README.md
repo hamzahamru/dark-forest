@@ -20,6 +20,9 @@ npm i node-fetch@2.6.1
 npm i fs
 ```
 ```python
+readline-sync
+```
+```python
 npm i cheerio
 ```
 ```python
