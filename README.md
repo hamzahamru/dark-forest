@@ -8,9 +8,10 @@ Fill email.txt with your list email
 # Installation
 
 Install nodejs to your laptop/pc.
+
 Use the nodejs package manager [npm](https://nodejs.org/en) to install package.
 
-Paste this to your terminal
+Paste this to your terminal 
 ```python
 npm i node-fetch@2.6.1
 ```
