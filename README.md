@@ -11,6 +11,7 @@ Install nodejs to your laptop/pc.
 
 Use the nodejs package manager [npm](https://nodejs.org/en) to install package.
 
+After nodejs is successfully installed.
 Paste this to your terminal 
 ```python
 npm i node-fetch@2.6.1
