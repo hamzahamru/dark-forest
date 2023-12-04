@@ -5,7 +5,9 @@ The Darkforest pre-Register auto submit.
 
 Fill email.txt with your list email split by enter
 ex:
+
 email1
+
 email2
 
 # Installation
