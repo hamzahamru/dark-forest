@@ -8,6 +8,22 @@ Fill email.txt with your list email
 # Installation
 
 Install NodeJs to your laptop/pc
+Paste This to your terminal
+```python
+npm i node-fetch@2.6.1
+```
+```python
+npm i fs
+```
+```python
+npm i cheerio
+```
+```python
+npm i @faker-js/faker
+```
+```python
+npm i chalk@4.1.2
+```
 
 
 ## Usage
