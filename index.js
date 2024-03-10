@@ -1,3 +1,6 @@
+const autofill = require('@hamzahamru/autofill-typeform');
+const spafind = require('@hamzahamru/spafind');
+const translate = require('@hamzahamru/auto-translate')
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const fs = require('fs');
