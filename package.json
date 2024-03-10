@@ -1,7 +1,30 @@
 {
+  "name": "@hamzahamru/dark-forest",
+  "version": "1.0.0",
   "dependencies": {
-    "@solana/web3.js": "^1.78.5",
-    "https-proxy-agent": "^7.0.2",
-    "translate-google": "^1.5.0"
-  }
+    "node-fetch": "^2.6.0",
+    "@hamzahamru/autofill-typeform": "^1.0.2",
+    "@hamzahamru/auto-translate": "^1.0.0",
+    "@hamzahamru/spafind": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "chalk": "^4.1.2",
+    "@faker-js/faker": "^8.4.1"
+  },
+  "description": "dark-forest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzahamru/dark-forest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzahamru/dark-forest/issues"
+  },
+  "homepage": "https://github.com/hamzahamru/dark-forest#readme"
 }
